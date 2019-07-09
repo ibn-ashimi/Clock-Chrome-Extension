@@ -1,0 +1,22 @@
+{
+    "manifest_version": 2,
+    "name": "Ashimi Clock",
+    "version": "1.0",
+    "description": "Check the time from your Browser, This chrome Extension is developed and managed by Abdulwahab Adebowale Ashimi. It is a practise project that will be improved.",
+    "icons":{
+        "128": "clock.png",
+        "48": "clock2.png",
+        "16": "clock1.png"
+    },
+
+    "browser_action":{
+        "default_popup": "index.html",
+        "default_icon": "clock.png",
+        "deafault_title": "Clock extension"
+    },
+
+    "permissions":[
+        "tabs"
+    ]
+}
+

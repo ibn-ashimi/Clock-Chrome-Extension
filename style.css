@@ -1,0 +1,11 @@
+body	{
+	background-color: #99ddfc;
+}
+
+#clock{
+	color: #fff;
+	font-size: 60px;
+	background-color: #000;
+	width: 100%;
+	font-family: helvetica;
+}
